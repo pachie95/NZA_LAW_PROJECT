@@ -63,11 +63,11 @@ height:200px;
 /**main container**/
 
 .left__container{
-  height: 400PX;
+ 
   }
 
 .right__container{
-  height: 400px;
+
 
 }
 /**footer**/
@@ -91,6 +91,11 @@ height:200px;
   margin-left: 10px;
  }
 
+ .card-img-top{
+   float: left;
+   margin:10px;
+ }
+
 #header_5{
   border-bottom: 2px solid white;
   margin-bottom: 25px;
@@ -100,4 +105,32 @@ height:200px;
 .card-body {
   margin-right: 55px;
   margin-left: -12px;
+}
+
+
+.sub_titles{
+  display: block;
+  margin: 5px 0 5px 15px;
+  font-size: 12px;
+}
+.titles__h{
+  margin: 0 0 0 15px;
+
+}
+.attorney{
+  padding: 25px;
+}
+
+.image__1{
+
+}
+
+.Holderplace__1{
+    left: 4px;
+    position: relative;
+}
+
+.Holderplace__3{
+  left: 4px;
+  position: relative;
 }
